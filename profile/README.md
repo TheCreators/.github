@@ -1,3 +1,7 @@
-# The creators
+<h1 align="center">
+  <br>
+  The Creators
+  <br>
+</h1>
 
-Unity Pro Coders
+<h4 align="center">Unity Pro Coders</h4>
